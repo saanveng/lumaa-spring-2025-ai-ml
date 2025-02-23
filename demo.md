@@ -88,6 +88,10 @@ Output :
     Chart Position: 101
     Similarity Score: 0.151
 
+
+https://github.com/user-attachments/assets/7b8af9dc-eb64-475d-8a22-0db8317ebbfa
+
+
     Song: Snow Tha Product: Bzrp Music Sessions, Vol. 39
     Artist: Bizarrap, Snow Tha Product
     Genre: ['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino']
